@@ -8,16 +8,10 @@ body {
 	margin: 0 auto;
 }
 
-<<<<<<< HEAD
 a {
 	text-decoration: none;
 	
-}
-
-
-
-p {
-	align-content: justify;
+	
 }
 
 .cabecalhoPrincipal {
@@ -27,17 +21,6 @@ p {
 
 .cabecalhoPrincipal-logo {
 	padding-bottom: 20px;
-=======
-.cabecalhoPrincipal {
-	background-color: #FFF;
-	padding: 20px 0;
-}
-
-.cabecalhoPrincipal-figura {
-	font-weight: bold;
-	font-size: 2em;
-	margin-bottom: 10px;
->>>>>>> c0ef61cf2636094764d66592e6813e968cdc55f7
 }
 
 .cabecalhoPrincipal-titulo a {
@@ -45,19 +28,16 @@ p {
 	color: inherit;
 }
 
+
 .cabecalhoPrincipal-nav-link {
 	padding: 10px;
-	margin-bottom: 10px;
+	margin: 10px;
+	margin-bottom: 15px;
 	color: #9799A6;
 	background-color: #FFF;
 	text-decoration: none;
 	transition: .5s;
 	display: block;
-<<<<<<< HEAD
 	border-radius: 4em;
-	
-=======
->>>>>>> c0ef61cf2636094764d66592e6813e968cdc55f7
-
 	border-bottom: 1px solid #9799A6;
 }
